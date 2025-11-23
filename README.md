@@ -23,6 +23,21 @@ This project is an **interactive dashboard** built with [Streamlit](https://stre
 - Simple linear regression for forecasting the unemployment rate for the next 6 months.  
 - Clean UI set to “wide” mode for enhanced display.
 
+
+## Findings / Insights
+
+The analysis from the dataset reveals:
+
+- The estimated unemployment rate shows fluctuations over time, with certain periods experiencing noticeable increases.
+
+- Regional differences are evident: some states/regions consistently report higher unemployment rates than others.
+
+- Labour participation rates vary by area, indicating differences in workforce engagement between urban and rural areas.
+
+- Estimated employment trends align inversely with unemployment trends, reflecting the shifts in workforce availability over time.
+
+<img width="1868" height="973" alt="Unemployment rate" src="https://github.com/user-attachments/assets/5c84e9fb-335a-4c1e-bc6d-3f9cf38dec62" />
+
 ---
 
 ##  Technologies & Libraries  
