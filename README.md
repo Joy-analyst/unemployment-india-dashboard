@@ -8,13 +8,13 @@ By Joy Uko
 
 ---
 
-## 🧾 Project Overview  
+##  Project Overview  
 This project is an **interactive dashboard** built with [Streamlit](https://streamlit.io) that explores and visualises unemployment trends in India. The dashboard allows users to filter by date range, analyse unemployment rates over time, compare across areas, and even run a simple regression‑based forecast for short‑term prediction.
 
 ---
 
-## 💡 Key Features  
-- Load and clean the dataset `Unemployment_in_India.csv`, including handling missing values, normalising column names, and converting types (dates / numeric).  
+##  Key Features  
+- Load and clean the dataset `Unemployment in India.csv`, including handling missing values, normalising column names, and converting types (dates / numeric).  
 - Sidebar filters: select date range and area (if available) for custom subsets.  
 - Metrics panel: display number of data points, average unemployment rate, and average employed estimate.  
 - Time‑series plot of unemployment rate.  
@@ -25,7 +25,7 @@ This project is an **interactive dashboard** built with [Streamlit](https://stre
 
 ---
 
-## 🛠️ Technologies & Libraries  
+##  Technologies & Libraries  
 - Python 3.x  
 - [Streamlit](https://streamlit.io) for the web interface  
 - pandas & numpy for data processing  
@@ -34,5 +34,6 @@ This project is an **interactive dashboard** built with [Streamlit](https://stre
 - seaborn / plotly (optional) for enhanced visualisation  
 
 ---
-
+## Linkedin: https://www.linkedin.com/in/joy-uko
+## Website: https://sites.google.com/view/joy-uko/portfolio
 
